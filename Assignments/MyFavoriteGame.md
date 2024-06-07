@@ -6,7 +6,7 @@
 ## Company:
 #### Nintendo
 ## Website:
-#### https://www.nintendo.com/us/
+#### [Website link here](https://www.nintendo.com/us/)
 ## Release date:
 #### December 7th, 2018
 ## Primary Engine:
